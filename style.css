@@ -6,7 +6,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: salmon;
+    background-color: rgb(134, 114, 250);
   }
   
   img {
